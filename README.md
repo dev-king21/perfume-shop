@@ -5,11 +5,6 @@
 
 E-commerce project developed using Spring Boot and React.js.<br>
 
-#### An actual version of build is deployed on AWS:
-http://perfumesweb.tk <br>
-Login: admin@gmail.com <br> 
-Password: admin
-
 ## Used Technologies:
 
 * Back-end: Spring (Boot, Data, Security), JPA / Hibernate, PostgreSQL, JUnit, Mockito
